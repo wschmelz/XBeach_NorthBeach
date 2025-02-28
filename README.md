@@ -5,5 +5,5 @@ Code used to generate results documented within the manuscript titled,
 which has been submitted for review.
 
 **Increasing frequency of coastal erosion events indicated by the stratigraphy of a modern barrier spit**  
-W. John Schmelz, Kenneth G. Miller, Jonathan Liu, J.N. Stanley, James V. Browning  
+W. John Schmelz (orcid.org/0000-0002-2588-7985), Kenneth G. Miller, Jonathan Liu, J.N. Stanley, James V. Browning  
 *Department of Earth and Planetary Sciences, Rutgers University, 610 Taylor Road, Piscataway, New Jersey 08854*
