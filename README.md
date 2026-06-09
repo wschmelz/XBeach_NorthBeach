@@ -11,8 +11,4 @@ Department of Earth and Planetary Sciences, Rutgers University
 
 ## Citation
 
-Please cite the archived Zenodo release for this repository. Citation metadata are provided in `CITATION.cff`.
-
-## License
-
-MIT License
+Please cite the archived Zenodo release for use of this repository.
