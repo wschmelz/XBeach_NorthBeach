@@ -1,34 +1,26 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
+message: "If you use this software, please cite the archived Zenodo release using the metadata below."
 type: software
-title: "XBeach_NorthBeach: XBeach modeling workflow for North Beach, Sandy Hook, New Jersey"
+title: "XBeach_NorthBeach: Code for \"Increasing frequency of coastal erosion indicated by a hindcast model of storm-driven forcing calibrated with beach stratigraphy\""
 authors:
   - family-names: Schmelz
     given-names: "W. John"
     orcid: "https://orcid.org/0000-0002-2588-7985"
-    affiliation: "Department of Earth and Planetary Sciences, Rutgers University, Piscataway, New Jersey, USA"
-  - family-names: Miller
-    given-names: "Kenneth G."
-    affiliation: "Department of Earth and Planetary Sciences, Rutgers University, Piscataway, New Jersey, USA"
-  - family-names: Liu
-    given-names: "Jonathan"
-    affiliation: "Department of Earth and Planetary Sciences, Rutgers University, Piscataway, New Jersey, USA"
-  - family-names: Stanley
-    given-names: "J.N."
-    affiliation: "Department of Earth and Planetary Sciences, Rutgers University, Piscataway, New Jersey, USA"
-  - family-names: Browning
-    given-names: "James V."
-    affiliation: "Department of Earth and Planetary Sciences, Rutgers University, Piscataway, New Jersey, USA"
-version: "1.0.0"
+    affiliation: "Rutgers University"
+version: "v.1.0.0"
 date-released: "2026-06-09"
+doi: "10.5281/zenodo.15104233"
 repository-code: "https://github.com/wschmelz/XBeach_NorthBeach"
-url: "https://github.com/wschmelz/XBeach_NorthBeach"
+url: "https://zenodo.org/records/15104233"
 license: MIT
 abstract: >-
   Code and workflows used to generate XBeach model results for North Beach,
   Sandy Hook, New Jersey, supporting the manuscript "Increasing frequency of
   coastal erosion indicated by a hindcast model of storm-driven forcing
   calibrated with beach stratigraphy."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.15104233"
 keywords:
   - XBeach
   - coastal erosion
